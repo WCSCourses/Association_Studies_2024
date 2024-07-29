@@ -2,8 +2,9 @@
 
 # Genetic Analysis of Population-based Association Studies
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
+## 2–6 September 2024, Wellcome Genome Campus, UK
+
+[Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20240902/) <br /> 
 
 # Summary
 
@@ -75,12 +76,14 @@ On completion of the course, participants can expect to:
 - Perform imputation of variants that have not been directly genotyped, using information from genotyped genetic variants 
 - Perform analysis of common and rare variants, accounting for population structure accounting for population structure and family data
 
-**Course Runs**      
+**Course Instructors**      
 
-| Course Date | Course Title | Location |Citation DOI |
-|-------------|--------------|----------|-------------|
-| 11–15 September 2023 | [Genetic Analysis of Population-based Association Studies](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20230911/) | Wellcome Genome Campus, UK | [![DOI](https://zenodo.org/badge/835226405.svg)](https://zenodo.org/doi/10.5281/zenodo.13122520) |
-| 2–6 September 2024 | [Genetic Analysis of Population-based Association Studies](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20240902/) | Wellcome Genome Campus, UK | DOI coming soon. |
+- [Svetlana Cherlin](https://www.newcastle-biostatistics.com/staff/svetlana_cherlin/), Newcastle University, UK
+- [Heather Cordell](https://www.staff.ncl.ac.uk/heather.cordell/), Newcastle University, UK
+- [Gibran Hemani](https://www.bristol.ac.uk/people/person/Gibran-Hemani-7099528a-3d05-4917-a312-8ac3d8ec5e71/), University of Bristol, UK
+- [Andrew Morris](https://research.manchester.ac.uk/en/persons/andrew.morris-5), University of Manchester, UK
+- [Gisela Orozco](https://research.manchester.ac.uk/en/persons/gisela.orozco), University of Manchester, UK
+- Nik Tzoumas, Newcastle University, UK
 
 ******
 
