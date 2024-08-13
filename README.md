@@ -85,6 +85,15 @@ On completion of the course, participants can expect to:
 - [Gisela Orozco](https://research.manchester.ac.uk/en/persons/gisela.orozco), University of Manchester, UK
 - Nik Tzoumas, Newcastle University, UK
 
+**Wellcome Connecting Science Team**    
+
+- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
+- [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Informatics Manager
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
+- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Head of Training and Global Capacity
+- [Nicola Stevens](https://www.wellcomeconnectingscience.org/person/stevens-nicola/), Events Organiser
+- [Michelle Bishop](https://www.wellcomeconnectingscience.org/person/bishop-michelle/#), Associate Director
+
 ******
 
 ## Citing and Re-using Course Material
