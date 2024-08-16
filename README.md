@@ -5,6 +5,8 @@
 ## 2–6 September 2024, Wellcome Genome Campus, UK
 
 [Wellcome Connecting Science Course Website Link](https://coursesandconferences.wellcomeconnectingscience.org/event/genetic-analysis-of-population-based-association-studies-20240902/) <br /> 
+[Course Time table](https://github.com/WCSCourses/Association_Studies_2024/blob/main/Masterplanner%20document%20-%20Timetable.pdf) <br /> 
+[Course Informatics Guide](https://github.com/WCSCourses/Association_Studies_2024/blob/main/Course_Informatics_Guide.md)
 
 # Summary
 
